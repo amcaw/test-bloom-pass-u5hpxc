@@ -1,0 +1,20 @@
+[
+  {
+    "name": "object1",
+    "latitude": -8.973,
+    "longitude": 15.5002,
+    "kind": "category_1"
+  },
+  {
+    "name": "object2",
+    "latitude": -4.21,
+    "longitude": -12.31,
+    "kind": "category_2"
+  },
+  {
+    "name": "object3",
+    "latitude": -69.373,
+    "longitude": 32.319,
+    "kind": "category_2"
+  }
+]
